@@ -1,0 +1,41 @@
+﻿.bg{
+    background-image:url('../../pix/pastorWife2.png');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-attachment:fixed;
+    background-position:center;
+}
+
+.mainLinks{
+    font: bold 24pt Helvitica,arial, verdana;
+    color:white;
+    text-decoration:none;
+    display:block;
+}
+
+    .mainLinks:hover {
+        color:yellow;
+    }
+
+nav {
+    float:left;
+    margin-left: 3em;
+    margin-top: 20ex;
+}
+
+.index {
+    font-family:'French Script MT';
+    font-size:24pt;
+    color:maroon;
+    width:400px;
+    position:absolute;
+    top:70ex; left:17em;
+}
+
+    .index footer {
+        color:brown;
+        font-family:Algerian;
+        font-size:14pt;
+        margin-top:5ex;
+        text-align:center;
+    }
